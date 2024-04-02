@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function redirectToNextWebsite() {
-    window.location.href = 'https://rootxyash.github.io/start/'; // Replace 'https://example.com' with the URL of the next website
+    window.location.href = 'https://tejaswinii27.github.io/bdayy/'; // Replace 'https://example.com' with the URL of the next website
   }
 
   function showSurprise() {
